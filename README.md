@@ -1,2 +1,2 @@
 # git-lab-practice
-Updated by Ndifreke on dev-ndifreke.
+Updated by Partner on dev-partner.
