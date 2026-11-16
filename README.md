@@ -1,2 +1,3 @@
 # git-lab-practice
-Updated by Partner on dev-partner.
+Conflict test by Ndifreke
+
